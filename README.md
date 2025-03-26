@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ermias Bizuwork @ebizuwo
 - 👀 I’m interested in anything and everything
-- 🌱 I’m currently learning a bit of React, Flutter, Node, Python, Tensorflow
+- 🌱 I’m currently learning a bit of React, Flutter, Node, Python, Tensorflow, Node.Js, Typescript
 - 💞️ I’m looking to collaborate on launching any product!
 
 <!---
